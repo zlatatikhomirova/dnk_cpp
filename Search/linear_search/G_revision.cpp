@@ -6,7 +6,6 @@ int main()
 {
     int n, minn, preminn, t;
     cin >> n;
-    int a[n];
     cin >> minn;
     cin >> t;
     if (t < minn)
